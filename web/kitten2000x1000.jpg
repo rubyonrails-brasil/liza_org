@@ -1,0 +1,13 @@
+--2023-01-18 12:36:35--  http://placekitten.com/g/2000/1000
+Resolving placekitten.com (placekitten.com)... 172.67.196.173, 104.21.52.70
+Connecting to placekitten.com (placekitten.com)|172.67.196.173|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘1000’
+
+     0K .......... .......... .......... .......... ..........  658K
+    50K .......... .......... .......... .......... ..........  769K
+   100K ....                                                   68,1M=0,1s
+
+2023-01-18 12:36:36 (740 KB/s) - ‘1000’ saved [106821]
+
